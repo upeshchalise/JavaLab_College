@@ -17,7 +17,7 @@ public class Vowel {
             case 'i':
             case 'o':
             case 'u':
-            System.out.println("vowel");
+            System.out.println("vowel");    
             break;
             default : 
             System.out.println("Consonant");
