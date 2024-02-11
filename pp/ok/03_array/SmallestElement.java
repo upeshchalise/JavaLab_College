@@ -21,4 +21,9 @@ import java.util.Scanner;
             System.out.println(SmallestElement);
         sc.close();
      }
+
+    public double averageScore(int[] arr) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'averageScore'");
+    }
 }
